@@ -1,14 +1,6 @@
-# COP5615 Project 1 - Bitcoin Mining in Erlang
-
-## Group 6
-
-| | Member 1 | Member 2 |
-|---|---|---|
-| Name | Sreenidhee Vidya Modugu | Manvitha Gangasani |
-| UF ID | 7634 8994 | 3747 1957 |
+#Bitcoin Mining in Erlang
 
 Every candidate string is prefixed with Sreenidhee's GatorLink ID: `modugus;<n>`
-(the assignment only requires one team member's ID for this).
 
 ## What it does
 
